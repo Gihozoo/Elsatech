@@ -1,4 +1,4 @@
-<?php include_once("index.html")?>
-<?php include_once("information.html")?>
-<?php include_once("c.html")?>
-<?php include_once("more.html")?>
+<?php include("index.html")?>
+<?php include("information.html")?>
+<?php include("c.html")?>
+<?php include("more.html")?>

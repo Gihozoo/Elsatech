@@ -1,4 +1,1 @@
-<?php include("index.html")?>
-<?php include("information.html")?>
-<?php include("c.html")?>
-<?php include("more.html")?>
+<?php include("index.html"); ("information.html");("c.html"); ("more.html")?>
